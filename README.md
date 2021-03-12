@@ -33,16 +33,14 @@ Upon download, locate the file 'config.toml', which you must modify to match you
 
 To run RiskyBank, open a new terminal window and navigate to the downloaded folder titled 'riskybank-master' containing all of the application module files. 
 
-Launch Python
+Launch Python and RiskyBank witht following command: python3 main.py <kbd>Enter</kbd>
 ```
-python3
-```
-Launch RiskyBank by typing 'main.py' followed by <kbd>Enter</kbd>
-```
-main.py
+python3 main.py 
 ```
 
 You should now be at the entrance of the program.
+
+![PostgresSQL Config](/screenshots/terminal_launch.png)
 
 
 ## Usage
