@@ -33,9 +33,9 @@ Upon download, locate the file 'config.toml', which you must modify to match you
 
 To run RiskyBank, open a new terminal window and navigate to the downloaded folder titled 'riskybank-master' containing all of the application module files. 
 
-Launch Python and RiskyBank witht following command:
+Launch Python and RiskyBank witht following command 'python3 main.py <kbd>Enter</kbd>':
 ```
-python3 main.py <kbd>Enter</kbd>
+python3 main.py 
 ```
 
 You should now be at the entrance of the program.
