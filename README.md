@@ -1,8 +1,8 @@
 # RiskyBank - Springboard Data Engineering OOP Project
 
 RiskyBank is a simple mock ATM/Banking application run via the command line. 
-The program takes members personal info and adds them to a PostgreSQL database. 
-Members can open accounts and make various transactions such as deposits, withdrawals, balance inquiries, as well as submit applications for financial products such as  loans and credit cards. Members, Account, and Products database tables are all linked via SQLAlchemy Object Relational Mapping (ORM).
+The program takes members personal info and adds it to a PostgreSQL database. 
+Members can open accounts and make various transactions such as deposits, withdrawals, balance inquiries, as well as submit applications for financial products such as  loans and credit cards. Member, Account, and Product database tables are all linked via SQLAlchemy Object Relational Mapping (ORM).
 
 ![RiskyBank Banner](/screenshots/riskybank_banner.png)
 
