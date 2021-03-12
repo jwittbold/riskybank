@@ -37,7 +37,7 @@ Launch Python
 ```
 python3
 ```
-Launch RiskyBank by typing 'main.py' followed by <kbd>Enter</kbd. 
+Launch RiskyBank by typing 'main.py' followed by <kbd>Enter</kbd 
 ```
 main.py
 ```
